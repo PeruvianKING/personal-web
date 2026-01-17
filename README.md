@@ -9,7 +9,7 @@ Este repositorio contiene el código fuente de mi **página web personal**, desa
 - **v0 by Vercel** 
 - **JavaScript / JSX** 
 
-## ✨ Características
+## Características
 
 - Diseño moderno y responsive  
 - Interfaz clara, limpia y accesible  
