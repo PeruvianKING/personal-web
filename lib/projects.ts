@@ -29,7 +29,7 @@ export const projects: Project[] = [
     [br]Para paliar un poco la poca eficiencia de mi sistema implementé paginación buscando que no 
     tardara demasiado en cargar.`,
     technologies: ["React", "Vite", "JavaScript"],
-    liveUrl: "https://peruvianking.com",
+    liveUrl: "https://test-app.peruvianking.com",
     githubUrl: "https://github.com/PeruvianKING/test-app",
     image: "/test-app.png",
     year: "2026",
