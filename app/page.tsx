@@ -47,7 +47,6 @@ export default function HomePage() {
                 PeruvianKING
               </h1>
               <p className="text-lg md:text-xl text-muted-foreground mt-4 max-w-xl leading-relaxed">
-                <span className="italic text-foreground/80">Trasteando con tecnologías.</span>{" "}
                 Esta es mi página personal para subir los distintos proyectos que vaya haciendo.
               </p>
               <div className="flex gap-4 mt-6 justify-center md:justify-start">
